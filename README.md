@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @umangpal
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning web development
+- 😊 Rust and soladity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
