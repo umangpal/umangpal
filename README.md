@@ -2,8 +2,6 @@
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning web development
 - 😊 Rust and soladity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 umangpal/umangpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
